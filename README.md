@@ -1,2 +1,2 @@
 # Probablity-and-Statistics
-(Standford_Statistical learning)[https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/info]
+[Standford_Statistical_learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/info)
